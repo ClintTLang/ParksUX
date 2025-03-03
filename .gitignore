@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Node.js dependencies (they will install via npm)
+node_modules/
+package-lock.json
+
+# Ignore OS and editor-specific files
+.DS_Store
+*.log
