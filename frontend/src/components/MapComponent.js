@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import { Icon } from "leaflet";
+import Sidebar from "./Sidebar"; // Import Sidebar component
 
 // Define park locations
 const parkLocations = [
@@ -43,44 +44,60 @@ const customIcon = new Icon({
 });
 
 const MapComponent = () => {
-  const [selectedPark, setSelectedPark] = useState(null);
+  const [activePark, setActivePark] = useState(null);
+  const [showPanel, setShowPanel] = useState(false);
 
   return (
-    <div className="w-full h-screen">
-      <MapContainer center={[36.0677, -86.6573]} zoom={12} className="h-full">
-        {/* OpenStreetMap Tile Layer (No API Key Needed) */}
-        <TileLayer
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        />
-
-        {/* Render park markers */}
-        {parkLocations.map((park) => (
-          <Marker
-            key={park.id}
-            position={park.position}
-            icon={customIcon}
-            eventHandlers={{
-              click: () => {
-                setSelectedPark(park);
-              },
-            }}
+    <div className="relative w-full h-screen flex">
+      {/* Map Section */}
+      <div className="flex-1 h-screen">
+        <MapContainer center={[36.0677, -86.6573]} zoom={12} className="h-full z-10">
+          <TileLayer
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           />
-        ))}
 
-        {/* Popup when a park is clicked */}
-        {selectedPark && (
-          <Popup
-            position={selectedPark.position}
-            onClose={() => setSelectedPark(null)}
-          >
-            <div className="p-2">
-              <h2 className="text-lg font-semibold">{selectedPark.name}</h2>
-              <p className="text-gray-600">{selectedPark.description}</p>
-            </div>
-          </Popup>
-        )}
-      </MapContainer>
+          {/* Render park markers */}
+          {parkLocations.map((park) => (
+            <Marker
+              key={park.id}
+              position={park.position}
+              icon={customIcon}
+              eventHandlers={{
+                click: () => {
+                  setActivePark(park);
+                  setShowPanel(false); // Reset panel when selecting a new park
+                },
+              }}
+            />
+          ))}
+
+          {/* Popup when a park is clicked */}
+          {activePark && (
+            <Popup
+              position={activePark.position}
+              onClose={() => {
+                setActivePark(null);
+                setShowPanel(false);
+              }}
+            >
+              <div className="p-2">
+                <h2 className="text-lg font-semibold">{activePark.name}</h2>
+                <p className="text-gray-600">{activePark.description}</p>
+                <button
+                  onClick={() => setShowPanel(true)}
+                  className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-all duration-300"
+                >
+                  Explore
+                </button>
+              </div>
+            </Popup>
+          )}
+        </MapContainer>
+      </div>
+
+      {/* Sidebar Component */}
+      <Sidebar activePark={activePark} showPanel={showPanel} setShowPanel={setShowPanel} />
     </div>
   );
 };
