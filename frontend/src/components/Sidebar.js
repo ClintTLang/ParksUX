@@ -66,7 +66,7 @@ const Sidebar = ({ activePark, showPanel, setShowPanel }) => {
                     {pieData.map((entry, index) => (
                       <Cell
                         key={`cell-${index}`}
-                        fill={index === 0 ? theme.secondary : theme.danger} // Use Tailwind theme colors
+                        fill={index === 0 ? theme.soft : theme.danger} // Use Tailwind theme colors
                       />
                     ))}
                   </Pie>

@@ -72,7 +72,7 @@ const ParkComparisonPage = () => {
                 <Tooltip />
                 <Bar
                   dataKey="Positive"
-                  fill={theme.secondary} // Theme-based green
+                  fill={theme.soft} // Theme-based green
                   radius={[5, 5, 0, 0]}
                 />
                 <Bar
