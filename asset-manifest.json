@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ParksUX/static/css/main.023cab7c.css",
+    "main.js": "/ParksUX/static/js/main.c3bdeba4.js",
+    "index.html": "/ParksUX/index.html",
+    "main.023cab7c.css.map": "/ParksUX/static/css/main.023cab7c.css.map",
+    "main.c3bdeba4.js.map": "/ParksUX/static/js/main.c3bdeba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023cab7c.css",
+    "static/js/main.c3bdeba4.js"
+  ]
+}

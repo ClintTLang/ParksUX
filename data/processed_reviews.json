@@ -1,0 +1,3052 @@
+[
+  {
+    "park": "Antioch Park",
+    "total_reviews": 50,
+    "avg_rating": 2.9,
+    "total_positive": 23,
+    "total_negative": 18,
+    "overall_sentiment": "Positive",
+    "reviews": [
+      {
+        "park": "Antioch Park",
+        "user": "Lucas",
+        "rating": 2,
+        "comment": "Love coming here to read and relax.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "John",
+        "rating": 4,
+        "comment": "Great place for biking and running!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Ava",
+        "rating": 2,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Michael",
+        "rating": 2,
+        "comment": "Great place for biking and running!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Ethan",
+        "rating": 3,
+        "comment": "My kids love playing here!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Emma",
+        "rating": 1,
+        "comment": "The staff does a great job maintaining the park.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Alexander",
+        "rating": 4,
+        "comment": "Too many mosquitoes, hard to enjoy.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Liam",
+        "rating": 1,
+        "comment": "Signage could be improved, hard to navigate.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Emma",
+        "rating": 1,
+        "comment": "Hard to find parking during peak hours.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Lucas",
+        "rating": 5,
+        "comment": "Feels safe and well-lit at night.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 1,
+        "comment": "Amazing trails and scenery!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Isabella",
+        "rating": 2,
+        "comment": "It’s a great place to meditate and reflect.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Michael",
+        "rating": 4,
+        "comment": "Not a lot of activities for kids.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 3,
+        "comment": "Perfect for a date or casual walk.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Ella",
+        "rating": 1,
+        "comment": "The playground is fun for kids.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 2,
+        "comment": "A wonderful hidden gem in the city!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 5,
+        "comment": "Some trails are overgrown and not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Emma",
+        "rating": 3,
+        "comment": "A little crowded on weekends.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Liam",
+        "rating": 3,
+        "comment": "Could use better lighting at night.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Emily",
+        "rating": 2,
+        "comment": "The picnic tables are old and worn down.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Emily",
+        "rating": 3,
+        "comment": "Lots of wildlife, great for bird watchers.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "James",
+        "rating": 2,
+        "comment": "Signage could be improved, hard to navigate.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Liam",
+        "rating": 1,
+        "comment": "Hard to find parking during peak hours.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 2,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "William",
+        "rating": 5,
+        "comment": "Too many mosquitoes, hard to enjoy.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Ava",
+        "rating": 5,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Sophia",
+        "rating": 1,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Elijah",
+        "rating": 1,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Sophia",
+        "rating": 4,
+        "comment": "Great for a morning jog.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Ethan",
+        "rating": 5,
+        "comment": "One of the best parks I’ve visited!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Alice",
+        "rating": 4,
+        "comment": "Too noisy, not as peaceful as expected.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 2,
+        "comment": "A peaceful getaway not too far from town.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Evelyn",
+        "rating": 2,
+        "comment": "The staff does a great job maintaining the park.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Amelia",
+        "rating": 3,
+        "comment": "Wish they had more food vendors.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "John",
+        "rating": 5,
+        "comment": "Very clean and safe environment.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Michael",
+        "rating": 4,
+        "comment": "Water fountains are broken or missing.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Sophia",
+        "rating": 5,
+        "comment": "My kids love playing here!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Sophia",
+        "rating": 1,
+        "comment": "Needs more shaded areas for hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Emily",
+        "rating": 2,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Michael",
+        "rating": 4,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Noah",
+        "rating": 4,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Alexander",
+        "rating": 3,
+        "comment": "Signage could be improved, hard to navigate.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "William",
+        "rating": 2,
+        "comment": "Lots of wildlife, great for bird watchers.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Sophia",
+        "rating": 5,
+        "comment": "Not a lot of activities for kids.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Noah",
+        "rating": 1,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "James",
+        "rating": 5,
+        "comment": "Amazing trails and scenery!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Ava",
+        "rating": 4,
+        "comment": "It’s a great place to meditate and reflect.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Elijah",
+        "rating": 5,
+        "comment": "Lots of friendly people walking their dogs.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Daniel",
+        "rating": 1,
+        "comment": "Friendly people and a relaxing atmosphere.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Antioch Park",
+        "user": "Daniel",
+        "rating": 3,
+        "comment": "Very clean and safe environment.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "park": "Hamilton Creek Park",
+    "total_reviews": 50,
+    "avg_rating": 2.96,
+    "total_positive": 27,
+    "total_negative": 16,
+    "overall_sentiment": "Positive",
+    "reviews": [
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Daniel",
+        "rating": 4,
+        "comment": "A little crowded on weekends.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Noah",
+        "rating": 3,
+        "comment": "A peaceful getaway not too far from town.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Alexander",
+        "rating": 4,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "John",
+        "rating": 4,
+        "comment": "A little crowded on weekends.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Alexander",
+        "rating": 5,
+        "comment": "Too many unleashed dogs running around.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "James",
+        "rating": 1,
+        "comment": "Perfect for a date or casual walk.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Abigail",
+        "rating": 3,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Ella",
+        "rating": 1,
+        "comment": "Needs more shaded areas for hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Liam",
+        "rating": 3,
+        "comment": "Nice place but could use better maintenance.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Mia",
+        "rating": 4,
+        "comment": "Great place for biking and running!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Lucas",
+        "rating": 4,
+        "comment": "Very clean and safe environment.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Evelyn",
+        "rating": 2,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Amelia",
+        "rating": 3,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Liam",
+        "rating": 5,
+        "comment": "Too many unleashed dogs running around.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Emily",
+        "rating": 4,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Elijah",
+        "rating": 1,
+        "comment": "Feels safe and well-lit at night.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Lucas",
+        "rating": 1,
+        "comment": "The playground needs an upgrade, some equipment is broken.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Mia",
+        "rating": 2,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Emma",
+        "rating": 3,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Evelyn",
+        "rating": 2,
+        "comment": "Best place for an afternoon stroll.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Evelyn",
+        "rating": 5,
+        "comment": "Best place for an afternoon stroll.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "James",
+        "rating": 2,
+        "comment": "Loved the walking paths!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Alexander",
+        "rating": 1,
+        "comment": "Not enough seating areas.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Alice",
+        "rating": 5,
+        "comment": "Nice place but parking is limited.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Mia",
+        "rating": 1,
+        "comment": "The lake water looks dirty, not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Lucas",
+        "rating": 3,
+        "comment": "Wish they had more food vendors.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Elijah",
+        "rating": 5,
+        "comment": "Too many mosquitoes, hard to enjoy.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Ethan",
+        "rating": 3,
+        "comment": "Friendly people and a relaxing atmosphere.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Elijah",
+        "rating": 1,
+        "comment": "Too noisy, not as peaceful as expected.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Sophia",
+        "rating": 5,
+        "comment": "Lots of friendly people walking their dogs.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Alexander",
+        "rating": 2,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Henry",
+        "rating": 4,
+        "comment": "The sunset view here is stunning!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Ava",
+        "rating": 1,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Liam",
+        "rating": 2,
+        "comment": "The restrooms need more maintenance.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "James",
+        "rating": 2,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "William",
+        "rating": 4,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "John",
+        "rating": 3,
+        "comment": "The playground needs an upgrade, some equipment is broken.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Ella",
+        "rating": 4,
+        "comment": "Lots of friendly people walking their dogs.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Noah",
+        "rating": 1,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Evelyn",
+        "rating": 1,
+        "comment": "One of the best parks I’ve visited!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Emily",
+        "rating": 2,
+        "comment": "The sunset view here is stunning!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Evelyn",
+        "rating": 1,
+        "comment": "The restrooms need more maintenance.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Lucas",
+        "rating": 3,
+        "comment": "The sunset view here is stunning!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Liam",
+        "rating": 2,
+        "comment": "Great spot for yoga in the mornings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Alexander",
+        "rating": 5,
+        "comment": "The sunset view here is stunning!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Perfect for picnics with family.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "Ethan",
+        "rating": 5,
+        "comment": "A peaceful getaway not too far from town.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "John",
+        "rating": 5,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Hamilton Creek Park",
+        "user": "James",
+        "rating": 5,
+        "comment": "Very clean and safe environment.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "park": "Mill Creek Greenway",
+    "total_reviews": 50,
+    "avg_rating": 2.82,
+    "total_positive": 27,
+    "total_negative": 13,
+    "overall_sentiment": "Positive",
+    "reviews": [
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Amazing trails and scenery!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Ethan",
+        "rating": 2,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "William",
+        "rating": 2,
+        "comment": "A wonderful hidden gem in the city!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Liam",
+        "rating": 1,
+        "comment": "Great spot for yoga in the mornings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Evelyn",
+        "rating": 2,
+        "comment": "Great for a morning jog.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Noah",
+        "rating": 1,
+        "comment": "Perfect for a date or casual walk.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Harper",
+        "rating": 1,
+        "comment": "Some trails are overgrown and not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Elijah",
+        "rating": 4,
+        "comment": "Needs more shaded areas for hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "John",
+        "rating": 4,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Michael",
+        "rating": 2,
+        "comment": "Lots of friendly people walking their dogs.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Henry",
+        "rating": 4,
+        "comment": "Beautiful and peaceful place!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Noah",
+        "rating": 5,
+        "comment": "A little crowded on weekends.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Sophia",
+        "rating": 3,
+        "comment": "Nice place but could use better maintenance.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Daniel",
+        "rating": 3,
+        "comment": "Signage could be improved, hard to navigate.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Elijah",
+        "rating": 1,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Sophia",
+        "rating": 2,
+        "comment": "A peaceful getaway not too far from town.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Ethan",
+        "rating": 5,
+        "comment": "Nice place but parking is limited.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Emily",
+        "rating": 2,
+        "comment": "Not enough seating areas.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Abigail",
+        "rating": 2,
+        "comment": "Water fountains are broken or missing.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Abigail",
+        "rating": 2,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Liam",
+        "rating": 3,
+        "comment": "Some trails are overgrown and not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Noah",
+        "rating": 4,
+        "comment": "Very clean and safe environment.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "John",
+        "rating": 3,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Michael",
+        "rating": 5,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Evelyn",
+        "rating": 4,
+        "comment": "The trees provide great shade on hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Daniel",
+        "rating": 2,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Elijah",
+        "rating": 4,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Michael",
+        "rating": 5,
+        "comment": "One of the best parks I’ve visited!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Liam",
+        "rating": 3,
+        "comment": "Love coming here to read and relax.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Evelyn",
+        "rating": 4,
+        "comment": "Not enough space for larger group gatherings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Evelyn",
+        "rating": 2,
+        "comment": "Loved the walking paths!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Benjamin",
+        "rating": 5,
+        "comment": "Lots of friendly people walking their dogs.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Lucas",
+        "rating": 2,
+        "comment": "Amazing trails and scenery!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Daniel",
+        "rating": 1,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "William",
+        "rating": 1,
+        "comment": "Not a lot of activities for kids.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Elijah",
+        "rating": 5,
+        "comment": "Not enough space for larger group gatherings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Liam",
+        "rating": 5,
+        "comment": "Lots of friendly people walking their dogs.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Elijah",
+        "rating": 1,
+        "comment": "Beautiful and peaceful place!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Ella",
+        "rating": 4,
+        "comment": "Some trails are overgrown and not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Benjamin",
+        "rating": 1,
+        "comment": "One of the best parks I’ve visited!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Liam",
+        "rating": 4,
+        "comment": "Perfect for picnics with family.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Amelia",
+        "rating": 4,
+        "comment": "It’s a great place to meditate and reflect.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Henry",
+        "rating": 2,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Ella",
+        "rating": 2,
+        "comment": "The lake water looks dirty, not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Ella",
+        "rating": 2,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Alice",
+        "rating": 1,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Abigail",
+        "rating": 2,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "William",
+        "rating": 3,
+        "comment": "Great place for biking and running!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Mill Creek Greenway",
+        "user": "Emily",
+        "rating": 3,
+        "comment": "Too many mosquitoes, hard to enjoy.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "park": "Seven Mile Creek Park",
+    "total_reviews": 50,
+    "avg_rating": 2.9,
+    "total_positive": 23,
+    "total_negative": 14,
+    "overall_sentiment": "Positive",
+    "reviews": [
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Lucas",
+        "rating": 3,
+        "comment": "Love coming here to read and relax.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Mia",
+        "rating": 5,
+        "comment": "Lots of wildlife, great for bird watchers.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Alice",
+        "rating": 4,
+        "comment": "Friendly people and a relaxing atmosphere.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Isabella",
+        "rating": 4,
+        "comment": "Loved the walking paths!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "John",
+        "rating": 1,
+        "comment": "Could use better lighting at night.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Emma",
+        "rating": 1,
+        "comment": "Signage could be improved, hard to navigate.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Amelia",
+        "rating": 3,
+        "comment": "The park is huge, lots to explore!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Lucas",
+        "rating": 5,
+        "comment": "Great place for biking and running!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Alexander",
+        "rating": 1,
+        "comment": "Not enough seating areas.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Benjamin",
+        "rating": 3,
+        "comment": "Feels safe and well-lit at night.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Mia",
+        "rating": 3,
+        "comment": "Lots of wildlife, great for bird watchers.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "John",
+        "rating": 5,
+        "comment": "The lake water looks dirty, not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Ethan",
+        "rating": 1,
+        "comment": "Nice place but parking is limited.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Lucas",
+        "rating": 5,
+        "comment": "The playground needs an upgrade, some equipment is broken.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Olivia",
+        "rating": 5,
+        "comment": "Hard to find parking during peak hours.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Ethan",
+        "rating": 1,
+        "comment": "Perfect for a date or casual walk.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Mia",
+        "rating": 5,
+        "comment": "Water fountains are broken or missing.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Ethan",
+        "rating": 5,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Hard to find parking during peak hours.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "James",
+        "rating": 5,
+        "comment": "A peaceful getaway not too far from town.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Benjamin",
+        "rating": 4,
+        "comment": "Signage could be improved, hard to navigate.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Alexander",
+        "rating": 4,
+        "comment": "Too noisy, not as peaceful as expected.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Emma",
+        "rating": 1,
+        "comment": "Great spot for yoga in the mornings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Amelia",
+        "rating": 4,
+        "comment": "The sunset view here is stunning!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Benjamin",
+        "rating": 5,
+        "comment": "The playground is fun for kids.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Elijah",
+        "rating": 1,
+        "comment": "Too many unleashed dogs running around.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Mia",
+        "rating": 2,
+        "comment": "Hard to find parking during peak hours.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Ava",
+        "rating": 3,
+        "comment": "Not enough seating areas.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Charlotte",
+        "rating": 1,
+        "comment": "Friendly people and a relaxing atmosphere.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Henry",
+        "rating": 4,
+        "comment": "Not enough space for larger group gatherings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Alexander",
+        "rating": 3,
+        "comment": "More trash cans would help keep it cleaner.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Alexander",
+        "rating": 2,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Sophia",
+        "rating": 1,
+        "comment": "The restrooms need more maintenance.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Alexander",
+        "rating": 2,
+        "comment": "The park is huge, lots to explore!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Amelia",
+        "rating": 3,
+        "comment": "One of the best parks I’ve visited!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Lucas",
+        "rating": 3,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Emily",
+        "rating": 1,
+        "comment": "The playground needs an upgrade, some equipment is broken.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Charlotte",
+        "rating": 2,
+        "comment": "The playground is fun for kids.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Ethan",
+        "rating": 3,
+        "comment": "Beautiful and peaceful place!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Noah",
+        "rating": 4,
+        "comment": "The trees provide great shade on hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Michael",
+        "rating": 2,
+        "comment": "Lots of wildlife, great for bird watchers.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Abigail",
+        "rating": 4,
+        "comment": "It’s a great place to meditate and reflect.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "William",
+        "rating": 1,
+        "comment": "Great for a morning jog.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Noah",
+        "rating": 2,
+        "comment": "Beautiful and peaceful place!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Ethan",
+        "rating": 1,
+        "comment": "Perfect for picnics with family.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Charlotte",
+        "rating": 3,
+        "comment": "Best place for an afternoon stroll.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Noah",
+        "rating": 3,
+        "comment": "Loved the walking paths!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Amelia",
+        "rating": 2,
+        "comment": "The picnic tables are old and worn down.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Seven Mile Creek Park",
+        "user": "Benjamin",
+        "rating": 3,
+        "comment": "Perfect for picnics with family.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "park": "Smith Springs Park",
+    "total_reviews": 50,
+    "avg_rating": 3.06,
+    "total_positive": 23,
+    "total_negative": 16,
+    "overall_sentiment": "Positive",
+    "reviews": [
+      {
+        "park": "Smith Springs Park",
+        "user": "Emma",
+        "rating": 3,
+        "comment": "Loved the walking paths!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Lucas",
+        "rating": 5,
+        "comment": "The sunset view here is stunning!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Mia",
+        "rating": 2,
+        "comment": "The park is huge, lots to explore!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ethan",
+        "rating": 3,
+        "comment": "Nice place but parking is limited.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Harper",
+        "rating": 2,
+        "comment": "The playground is fun for kids.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ava",
+        "rating": 4,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Liam",
+        "rating": 4,
+        "comment": "The park can get muddy after rain.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Noah",
+        "rating": 5,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Liam",
+        "rating": 4,
+        "comment": "The picnic tables are old and worn down.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Charlotte",
+        "rating": 2,
+        "comment": "Needs more shaded areas for hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ethan",
+        "rating": 1,
+        "comment": "The playground is fun for kids.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "James",
+        "rating": 4,
+        "comment": "The trees provide great shade on hot days.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Liam",
+        "rating": 2,
+        "comment": "Hard to find parking during peak hours.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Noah",
+        "rating": 3,
+        "comment": "Too noisy, not as peaceful as expected.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Abigail",
+        "rating": 5,
+        "comment": "Best place for an afternoon stroll.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Liam",
+        "rating": 2,
+        "comment": "Wish they had more food vendors.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Lucas",
+        "rating": 4,
+        "comment": "Love coming here to read and relax.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "James",
+        "rating": 1,
+        "comment": "The lake water looks dirty, not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ava",
+        "rating": 1,
+        "comment": "Too many unleashed dogs running around.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Henry",
+        "rating": 5,
+        "comment": "Too many mosquitoes, hard to enjoy.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Daniel",
+        "rating": 4,
+        "comment": "Water fountains are broken or missing.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Emily",
+        "rating": 1,
+        "comment": "Loved the walking paths!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Lucas",
+        "rating": 2,
+        "comment": "Nice open fields for playing sports.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ella",
+        "rating": 4,
+        "comment": "Not a lot of activities for kids.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "William",
+        "rating": 2,
+        "comment": "The picnic tables are old and worn down.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Emma",
+        "rating": 2,
+        "comment": "Great place for biking and running!",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Benjamin",
+        "rating": 2,
+        "comment": "Too noisy, not as peaceful as expected.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Liam",
+        "rating": 3,
+        "comment": "A little crowded on weekends.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ella",
+        "rating": 2,
+        "comment": "Too many mosquitoes, hard to enjoy.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Mia",
+        "rating": 4,
+        "comment": "The staff does a great job maintaining the park.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Emma",
+        "rating": 3,
+        "comment": "Not enough space for larger group gatherings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "William",
+        "rating": 5,
+        "comment": "The lake water looks dirty, not well-maintained.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Noah",
+        "rating": 3,
+        "comment": "A wonderful hidden gem in the city!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Benjamin",
+        "rating": 5,
+        "comment": "The restrooms need more maintenance.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Harper",
+        "rating": 3,
+        "comment": "Great spot for yoga in the mornings.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ethan",
+        "rating": 1,
+        "comment": "Some areas feel unsafe, needs better security.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "James",
+        "rating": 1,
+        "comment": "Amazing trails and scenery!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Henry",
+        "rating": 3,
+        "comment": "Great spot for a weekend picnic with friends.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Elijah",
+        "rating": 5,
+        "comment": "Friendly people and a relaxing atmosphere.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Isabella",
+        "rating": 5,
+        "comment": "Would be better if there were more trees for shade.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Liam",
+        "rating": 2,
+        "comment": "Fantastic running trails!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Henry",
+        "rating": 1,
+        "comment": "Bugs everywhere, bring lots of repellent.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 1
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Benjamin",
+        "rating": 5,
+        "comment": "A peaceful getaway not too far from town.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Michael",
+        "rating": 3,
+        "comment": "Best place for an afternoon stroll.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ava",
+        "rating": 1,
+        "comment": "Nice place but could use better maintenance.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Daniel",
+        "rating": 2,
+        "comment": "Not a lot of activities for kids.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Harper",
+        "rating": 4,
+        "comment": "Beautiful and peaceful place!",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Ethan",
+        "rating": 4,
+        "comment": "Nice place but could use better maintenance.",
+        "sentiment": [
+          {
+            "positive": 1,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "Elijah",
+        "rating": 5,
+        "comment": "Lots of wildlife, great for bird watchers.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      },
+      {
+        "park": "Smith Springs Park",
+        "user": "John",
+        "rating": 4,
+        "comment": "Great for a morning jog.",
+        "sentiment": [
+          {
+            "positive": 0,
+            "negative": 0
+          }
+        ]
+      }
+    ]
+  }
+]
