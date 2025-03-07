@@ -49,8 +49,8 @@ const Sidebar = ({ activePark, showPanel, setShowPanel }) => {
           {sentimentData ? (
             <>
               {/* Pie Chart Section */}
-              <div className="flex justify-center p-6">
-                <PieChart width={320} height={320} className="p-6">
+              <div className="flex justify-center p-2 overflow-y-auto">
+                <PieChart width={320} height={320} >
                   <Pie
                     data={pieData}
                     cx="50%"
@@ -58,8 +58,8 @@ const Sidebar = ({ activePark, showPanel, setShowPanel }) => {
                     label={({ name, percent }) =>
                       `${name}: ${(percent * 100).toFixed(0)}%`
                     }
-                    outerRadius={120}
-                    innerRadius={60}
+                    outerRadius={80}
+                    innerRadius={40}
                     paddingAngle={5}
                     dataKey="value"
                   >
