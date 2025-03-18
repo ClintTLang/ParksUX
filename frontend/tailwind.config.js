@@ -17,6 +17,7 @@ module.exports = {
         warning: "#F4A261", // Softer burnt orange for alerts
         danger: "#A41623", // Refined red, less harsh than pure red
         muted: "#EED3D2", // Soft pastel pink for highlights
+        white: "#FFFFFF"
       },
     },
   },

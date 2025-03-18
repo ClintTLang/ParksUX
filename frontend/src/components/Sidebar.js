@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ReviewList from "./ReviewList";
 import { fetchSentimentAnalysis } from "../utils/fetchSentiment";
+import reviewsData from "../data/processed_reviews.json"; // ✅ Import JSON
 import { PieChart, Pie, Cell, Tooltip } from "recharts";
 import { useTheme } from "../utils/useTheme"; // Custom hook to access Tailwind theme colors
 
@@ -10,12 +11,15 @@ const Sidebar = ({ activePark, showPanel, setShowPanel }) => {
 
   useEffect(() => {
     if (showPanel && activePark) {
-      fetchSentimentAnalysis().then((data) => {
-        if (data) {
-          const parkData = data.find((p) => p.park === activePark.name);
-          setSentimentData(parkData);
-        }
-      });
+      console.log("Fetching sentiment for:", activePark.name);
+  
+      // ✅ Directly find the park data from the imported JSON
+      const parkData = reviewsData.find((p) => p.park === activePark.name);
+      if (!parkData) {
+        console.warn(`⚠️ No data found for park: ${activePark.name}`);
+      }
+  
+      setSentimentData(parkData || null);
     }
   }, [showPanel, activePark]);
 
