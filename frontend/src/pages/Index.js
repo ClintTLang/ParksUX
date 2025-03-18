@@ -13,14 +13,13 @@ const Index = () => {
         className="text-center max-w-3xl mx-auto"
       >
         <span className="inline-block px-4 py-1.5 mb-6 text-sm font-medium text-secondary bg-secondary/10 rounded-full">
-          Discover Nature
+          T-ReCS
         </span>
         <h1 className="text-5xl md:text-6xl font-bold text-neutral mb-6">
           Explore the Parks of Mill Creek
         </h1>
         <p className="text-lg md:text-xl text-textlight mb-8 max-w-2xl mx-auto">
-          Immerse yourself in the beauty of nature. Navigate through detailed maps
-          and discover the hidden gems of our parks.
+        Are you ready to learn about how Nashville's Mill Creek affects our local community?
         </p>
         <motion.button
           whileHover={{ scale: 1.05 }}
@@ -34,9 +33,6 @@ const Index = () => {
         </motion.button>
       </motion.div>
 
-      <div className="absolute bottom-8 text-textlight text-sm">
-        Discover your local community, one park at a time
-      </div>
     </div>
   );
 };
