@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ParksUX/static/css/main.65437166.css",
-    "main.js": "/ParksUX/static/js/main.0d17a470.js",
+    "main.css": "/ParksUX/static/css/main.b85608e0.css",
+    "main.js": "/ParksUX/static/js/main.49a5b775.js",
     "index.html": "/ParksUX/index.html",
-    "main.65437166.css.map": "/ParksUX/static/css/main.65437166.css.map",
-    "main.0d17a470.js.map": "/ParksUX/static/js/main.0d17a470.js.map"
+    "main.b85608e0.css.map": "/ParksUX/static/css/main.b85608e0.css.map",
+    "main.49a5b775.js.map": "/ParksUX/static/js/main.49a5b775.js.map"
   },
   "entrypoints": [
-    "static/css/main.65437166.css",
-    "static/js/main.0d17a470.js"
+    "static/css/main.b85608e0.css",
+    "static/js/main.49a5b775.js"
   ]
 }
