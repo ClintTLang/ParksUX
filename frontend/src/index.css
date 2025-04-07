@@ -10,6 +10,9 @@
 /* Tailwind utility classes */
 @tailwind utilities;
 
+@import "@arcgis/core/assets/esri/themes/light/main.css";
+
+
 /* Global styles */
 body {
   margin: 0;

@@ -6,7 +6,8 @@ const Navbar = () => {
       <div className="flex justify-between items-center">
         {/* Left-Aligned Title */}
         <a href="/ParksUX/" className="hover:text-shade transition align-left flex items-center ">
-        <img href="/ParksUX/" className="hover:text-shade w-10 h-10 mr-2" src="./logo192.png">
+        <img href="/ParksUX/" className="hover:text-shade w-10 h-10 mr-2" src="./logo192.png" alt="Parks of Mill Creek Logo">
+
         </img>
         <a href="/ParksUX/" className="hover:text-shade transition text-2xl font-bold">T-ReCS</a>
         </a>
@@ -18,6 +19,9 @@ const Navbar = () => {
           </a>
           <a href="/ParksUX/#/howitworks" className="hover:text-shade transition">
             How It Works
+          </a>
+          <a href="/ParksUX/#/map" className="hover:text-shade transition">
+            Explore
           </a>
           <a href="/ParksUX/#/comparison" className="hover:text-shade transition">
             Compare Parks
