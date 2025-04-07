@@ -16,7 +16,7 @@ const Navbar = () => {
           <a href="/ParksUX/#/about" className="hover:text-shade transition">
             About
           </a>
-          <a href="/ParksUX/#/#language" className="hover:text-shade transition">
+          <a href="/ParksUX/#/howitworks" className="hover:text-shade transition">
             How It Works
           </a>
           <a href="/ParksUX/#/comparison" className="hover:text-shade transition">
