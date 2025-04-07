@@ -86,7 +86,7 @@ const MapComponent = () => {
                 <p className="text-textlight">{activePark.description}</p>
                 <button
                   onClick={() => setShowPanel(true)}
-                  className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-secondary transition-all duration-300"
+                  className="mt-2 px-4 py-2 bg-secondary text-white rounded-lg hover:bg-secondary/60 transition-all duration-300"
                 >
                   Explore
                 </button>
