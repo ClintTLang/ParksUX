@@ -16,7 +16,7 @@ const AboutPage = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center mt-20">
           {/* Left Column: About Text (Left-Aligned) */}
           <div className="pl-6">
-            <img className="w-30 h-30 md:w-30 md:h-30 mb-10 object-contain" src="./logo192.png" />
+            <img className="w-30 h-30 md:w-36 md:h-36 mb-10 object-contain" src="./logo192.png" />
             <h1 className="text-4xl font-bold text-neutral mb-6">About</h1>
             <p className="text-lg text-textlight mb-4 leading-relaxed">
               Welcome to the <span className="font-semibold">Parks of Mill Creek</span> exploration tool! This web app allows you to explore local parks, read visitor reviews, and analyze community feedback through <span className="font-semibold">sentiment analysis</span>.

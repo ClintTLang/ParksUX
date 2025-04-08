@@ -38,12 +38,21 @@ const Sidebar = ({ activePark, showPanel, setShowPanel }) => {
         <>
           {/* Expand/Close Buttons */}
           <div className="absolute top-2 right-2 flex gap-2 z-10">
-            <button
-              className="text-textlight hover:text-neutral"
-              onClick={() => setIsExpanded(!isExpanded)}
-            >
-              {isExpanded ? "🗗 Collapse" : "🗖 Expand"}
-            </button>
+          <button
+            className="flex items-center gap-1 text-textlight hover:text-neutral"
+            onClick={() => setIsExpanded(!isExpanded)}
+          >
+            {isExpanded ? (
+              <>
+                <span className="text-2xl leading-none">⤡</span> Collapse
+              </>
+            ) : (
+              <>
+                <span className="text-2xl leading-none">⤢</span> Expand
+              </>
+            )}
+          </button>
+
             <button
               className="text-textlight hover:text-neutral"
               onClick={() => {
