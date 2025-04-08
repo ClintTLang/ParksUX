@@ -6,8 +6,14 @@ const ReviewList = ({ selectedPark }) => {
 
   useEffect(() => {
     const parkReviews = reviewsData.find((p) => p.park === selectedPark);
-    setReviews(parkReviews ? parkReviews.reviews : []);
+    if (parkReviews) {
+      const sortedReviews = [...parkReviews.reviews].sort((a, b) => b.rating - a.rating);
+      setReviews(sortedReviews);
+    } else {
+      setReviews([]);
+    }
   }, [selectedPark]);
+  
 
   return (
     <div className="mt-6">

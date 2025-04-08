@@ -103,12 +103,14 @@ const ParkComparisonPage = () => {
                           fill={theme.soft}
                           radius={[5, 5, 0, 0]}
                           onClick={(data) => setSelectedPark(data.name)}
+                          cursor="pointer"
                         />
                         <Bar
                           dataKey="Negative"
                           fill={theme.danger}
                           radius={[5, 5, 0, 0]}
                           onClick={(data) => setSelectedPark(data.name)}
+                          cursor="pointer"
                         />
                       </BarChart>
                     </ResponsiveContainer>
@@ -141,7 +143,7 @@ const ParkComparisonPage = () => {
                     <div className="flex-1 overflow-y-auto px-4 pb-4">
                       {reviewTab === "Positive"
                         ? positiveReviews.length > 0
-                          ? positiveReviews.map((r, i) => (
+                          ? positiveReviews.sort((a, b) => b.rating - a.rating).map((r, i) => (
                               <div key={i} className="mb-3 text-sm">
                                 <p className="font-medium">{r.user}</p>
                                 <p className="text-gray-600">⭐ {r.rating}</p>
@@ -150,7 +152,7 @@ const ParkComparisonPage = () => {
                             ))
                           : <p className="text-sm text-gray-500">No positive reviews.</p>
                         : negativeReviews.length > 0
-                          ? negativeReviews.map((r, i) => (
+                          ? negativeReviews.sort((a, b) => b.rating - a.rating).map((r, i) => (
                               <div key={i} className="mb-3 text-sm">
                                 <p className="font-medium">{r.user}</p>
                                 <p className="text-gray-600">⭐ {r.rating}</p>

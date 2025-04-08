@@ -64,12 +64,15 @@ const MapComponent = () => {
               position={park.position}
               icon={customIcon}
               eventHandlers={{
-                click: () => {
+                mouseover: () => {
                   setActivePark(park);
-                  setShowPanel(false); // Reset panel when selecting a new park
+                  // setShowPanel(true); // Show the panel on hover
+                },
+                mouseout: () => {
+                  setShowPanel(false); // Hide panel when not hovering anymore
                 },
               }}
-            />
+            />          
           ))}
 
           {/* Popup when a park is clicked */}

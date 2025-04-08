@@ -94,7 +94,7 @@ const HowItWorksActivity = () => {
 
           {/* Right: Interactive */}
           <div className="bg-accent/10 p-6 rounded-lg shadow-md">
-            <h2 className="text-2xl font-bold text-accent mb-6">Discussion Time!</h2>
+            <h2 className="text-2xl font-bold text-[#96c86f] mb-6">Discussion Time!</h2>
 
             <SymbolSelector
               label="Which symbols do you think are the best indicators of being happy?"
